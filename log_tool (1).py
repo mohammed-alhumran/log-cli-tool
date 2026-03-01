@@ -21,8 +21,8 @@ Examples:
   python log_tool.py --level WARN --service api --out warn_api.txt
 """
 
-# Ali Hussain
-# NV24170
+# Mohammed Alhumran
+# NV24171
 # 11 CCP
 
 
